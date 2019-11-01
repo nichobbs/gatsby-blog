@@ -1,7 +1,10 @@
-import CMS from "netlify-cms-app"
-//import ImageGalleryPreview from "./image-gallery-preview.js"
+import CMS from "netlify-cms-app";
+import { Col2, Col2Preview } from "../components/col2";
+import { PageConfigurator, PageConfiguratorPreview } from '../components/pagemaker';
  
 /**
- * Register the imported widget:
+ * Register the imported widgets:
  */
-//CMS.registerWidget(`image-gallery`, ImageGalleryWidget, ImageGalleryPreview)
+console.log(Col2Preview)
+CMS.registerWidget('col-2', Col2, Col2Preview);
+CMS.registerWidget('pagemaker', PageConfigurator, PageConfiguratorPreview);

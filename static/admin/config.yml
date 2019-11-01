@@ -16,6 +16,7 @@ collections:
     create: true
     editor:
      preview: false
+    identifier_field: name
     fields:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "File", name: "file", widget: "string" }
@@ -39,9 +40,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Template", name: "template", widget: "relation", collection: "template" }
-      - label: "2 Column"
-        name: "col2"
-        widget: 'col-2'
+      - label: "Content"
+        name: "content"
+        widget: 'pagemaker'
 
     
           
