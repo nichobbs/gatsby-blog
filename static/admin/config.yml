@@ -2,6 +2,9 @@ backend:
   name: github
   repo: nichobbs/gatsby-blog
   branch: master
+  use_graphql: true
+  publish_mode: editorial_workflow
+  
 
 media_folder: static/img
 public_folder: /img
@@ -23,15 +26,10 @@ collections:
     label: "Page"
     folder: "content/pages"
     create: true
-    widget: list
-    fields: 
-      - label: "test"
-        name: test
-        widget: string
+    widget: "list"
     types:
       - label: "Carousel"
         name: "carousel"
-        widget: object
         fields:
           - {label: Header, name: header, widget: string, default: "Image Gallery"}
           - {label: Template, name: template, widget: string, default: "carousel.html"}
@@ -41,19 +39,16 @@ collections:
             field: {label: Image, name: image, widget: image}
       - label: "Spotlight"
         name: "spotlight"
-        widget: object
         fields:
           - {label: Header, name: header, widget: string, default: "Spotlight"}
           - {label: Template, name: template, widget: string, default: "spotlight.html"}
           - {label: Text, name: text, widget: text, default: "Hello World"} 
       - label: "3 Column"
         name: "col-3"
-        widget: object
         fields:
           - {label: Sections, name: sections, widget: object}
       - label: "2 Column"
         name: "col-2"
-        widget: object
         fields:
           - {label: Sections, name: sections, widget: object}
           
