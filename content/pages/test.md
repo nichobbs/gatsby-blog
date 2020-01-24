@@ -1,3 +1,34 @@
 ---
 title: Test title
+path: /test
+template: Fred
+content: >-
+  [{"id":"ecc33424-f24b-4a2c-9b71-6bf9037f62c9","type":"LAYOUT_GRID_1_2","name":"Two
+  column
+  row","payload":null,"key":"ecc33424-f24b-4a2c-9b71-6bf9037f62c9","dropzoneID":"root","parentID":"root","showBasicContent":false,"initialElements":[{"id":"f3c60105-5d08-4557-89d7-35edd6ea7458","type":"LAYOUT_GRID_1_3","name":"Three
+  column
+  row","payload":null,"key":"f3c60105-5d08-4557-89d7-35edd6ea7458","dropzoneID":"canvas-1-1","parentID":"ecc33424-f24b-4a2c-9b71-6bf9037f62c9","showBasicContent":false,"initialElements":[{"id":"3d86469c-45f8-481f-876c-553457f95a0b","type":"NUMBER","name":"Number","payload":null,"key":"3d86469c-45f8-481f-876c-553457f95a0b","dropzoneID":"canvas-1-2","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"8819f740-99c8-4b51-a586-b6a947349306","type":"EMAIL","name":"Email
+  box","payload":null,"key":"8819f740-99c8-4b51-a586-b6a947349306","dropzoneID":"canvas-1-1","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]}],"fields":[{"id":"3d86469c-45f8-481f-876c-553457f95a0b","type":"NUMBER","name":"Number","payload":null,"key":"3d86469c-45f8-481f-876c-553457f95a0b","dropzoneID":"canvas-1-2","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"8819f740-99c8-4b51-a586-b6a947349306","type":"EMAIL","name":"Email
+  box","payload":null,"key":"8819f740-99c8-4b51-a586-b6a947349306","dropzoneID":"canvas-1-1","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]}]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"ecc33424-f24b-4a2c-9b71-6bf9037f62c9","showBasicContent":false,"initialElements":[]}],"fields":[{"id":"f3c60105-5d08-4557-89d7-35edd6ea7458","type":"LAYOUT_GRID_1_3","name":"Three
+  column
+  row","payload":null,"key":"f3c60105-5d08-4557-89d7-35edd6ea7458","dropzoneID":"canvas-1-1","parentID":"ecc33424-f24b-4a2c-9b71-6bf9037f62c9","showBasicContent":false,"initialElements":[{"id":"3d86469c-45f8-481f-876c-553457f95a0b","type":"NUMBER","name":"Number","payload":null,"key":"3d86469c-45f8-481f-876c-553457f95a0b","dropzoneID":"canvas-1-2","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"8819f740-99c8-4b51-a586-b6a947349306","type":"EMAIL","name":"Email
+  box","payload":null,"key":"8819f740-99c8-4b51-a586-b6a947349306","dropzoneID":"canvas-1-1","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]}],"fields":[{"id":"3d86469c-45f8-481f-876c-553457f95a0b","type":"NUMBER","name":"Number","payload":null,"key":"3d86469c-45f8-481f-876c-553457f95a0b","dropzoneID":"canvas-1-2","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"8819f740-99c8-4b51-a586-b6a947349306","type":"EMAIL","name":"Email
+  box","payload":null,"key":"8819f740-99c8-4b51-a586-b6a947349306","dropzoneID":"canvas-1-1","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]}]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"ecc33424-f24b-4a2c-9b71-6bf9037f62c9","showBasicContent":false,"initialElements":[]}]},{"id":"f3c60105-5d08-4557-89d7-35edd6ea7458","type":"LAYOUT_GRID_1_3","name":"Three
+  column
+  row","payload":null,"key":"f3c60105-5d08-4557-89d7-35edd6ea7458","dropzoneID":"root","parentID":"root","showBasicContent":false,"initialElements":[{"id":"8819f740-99c8-4b51-a586-b6a947349306","type":"EMAIL","name":"Email
+  box","payload":null,"key":"8819f740-99c8-4b51-a586-b6a947349306","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]}],"fields":[{"id":"8819f740-99c8-4b51-a586-b6a947349306","type":"EMAIL","name":"Email
+  box","payload":null,"key":"8819f740-99c8-4b51-a586-b6a947349306","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]},{"id":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","type":"TEXT","name":"Text
+  box","payload":null,"key":"85004a2c-6dcf-4b0d-a3b7-be91c0f2fcb7","dropzoneID":"canvas-1-0","parentID":"f3c60105-5d08-4557-89d7-35edd6ea7458","showBasicContent":false,"initialElements":[]}]}]
 ---
+
